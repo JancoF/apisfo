@@ -12,14 +12,14 @@
           "name": "Pizza",
           "description": "Pizza de pepperoni",
           "price": 12.99,
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/NCI_Visuals_Food_Hamburger.jpg"
+          "image": "https://cdn.blogsthermomix.es/media/Posts/attachments/ab99a66d4ab1125401d9c039f9022c9a.jpeg"
         },
         {
           "id": 3,
           "name": "Ensalada",
           "description": "Ensalada de verduras frescas",
           "price": 7.99,
-          "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/NCI_Visuals_Food_Hamburger.jpg"
+          "image": "https://t1.uc.ltmcdn.com/es/posts/1/4/4/como_hacer_una_ensalada_con_naranja_52441_600.webp"
         }
     ]
 }
